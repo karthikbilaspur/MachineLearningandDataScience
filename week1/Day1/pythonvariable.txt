@@ -1,0 +1,60 @@
+Python Variables:
+In Python, a variable is a name given to a value or an object. Variables are used to store and manipulate data in a program.
+Declaring Variables:
+In Python, you don't need to declare variables before using them. You can simply assign a value to a variable using the assignment operator (=).
+Python
+x = 10  # declares a variable x and assigns it the value 10
+Python Variable Types:
+Python has the following built-in variable types:
+Integers (int): Whole numbers, e.g., 1, 2, 3, etc.
+Floats (float): Decimal numbers, e.g., 3.14, -0.5, etc.
+Complex Numbers (complex): Numbers with real and imaginary parts, e.g., 3+4j, 2-5j, etc.
+Strings (str): Sequences of characters, e.g., 'hello', "hello", etc.
+Boolean (bool): True or False values.
+List (list): Ordered collections of items, e.g., [1, 2, 3], ['a', 'b', 'c'], etc.
+Tuple (tuple): Ordered, immutable collections of items, e.g., (1, 2, 3), ('a', 'b', 'c'), etc.
+Dictionary (dict): Unordered collections of key-value pairs, e.g., {'name': 'John', 'age': 30}, etc.
+Set (set): Unordered collections of unique items, e.g., {1, 2, 3}, {'a', 'b', 'c'}, etc.
+Examples:
+Python
+# Integers
+x = 10
+print(type(x))  # Output: <class 'int'>
+
+# Floats
+y = 3.14
+print(type(y))  # Output: <class 'float'>
+
+# Complex Numbers
+z = 3+4j
+print(type(z))  # Output: <class 'complex'>
+
+# Strings
+name = 'John'
+print(type(name))  # Output: <class 'str'>
+
+# Boolean
+is_admin = True
+print(type(is_admin))  # Output: <class 'bool'>
+
+# List
+numbers = [1, 2, 3]
+print(type(numbers))  # Output: <class 'list'>
+
+# Tuple
+colors = ('red', 'green', 'blue')
+print(type(colors))  # Output: <class 'tuple'>
+
+# Dictionary
+person = {'name': 'John', 'age': 30}
+print(type(person))  # Output: <class 'dict'>
+
+# Set
+unique_numbers = {1, 2, 3}
+print(type(unique_numbers))  # Output: <class 'set'>
+Type Conversion:
+You can convert between types using built-in functions like int(), float(), str(), etc.
+Python
+x = 10
+y = float(x)  # converts x to a float
+print(y)  # Output: 10.0

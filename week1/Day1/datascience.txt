@@ -1,0 +1,28 @@
+Data Science Definition:
+Data Science is a field that combines statistics, computer science, and domain expertise to extract insights and knowledge from data.
+What does a Data Scientist do?
+Collects data: Gathers data from various sources, such as databases, APIs, or files.
+Cleans and preprocesses data: Handles missing values, removes duplicates, and transforms data into a usable format.
+Analyzes data: Applies statistical and machine learning techniques to identify patterns, trends, and correlations.
+Visualizes data: Creates plots, charts, and dashboards to communicate findings.
+Builds models: Develops predictive models, such as regression, classification, or clustering models.
+Deploys models: Integrates models into production environments, such as web applications or APIs.
+Examples of Data Science Applications:
+Predictive Maintenance: Analyzing sensor data to predict equipment failures.
+Recommendation Systems: Building systems to recommend products based on user behavior.
+Sentiment Analysis: Analyzing text data to determine customer sentiment.
+Image Classification: Building models to classify images into categories (e.g., objects, animals, etc.).
+Natural Language Processing (NLP): Developing models to understand and generate human language.
+Tools and Technologies:
+Programming languages: Python, R, SQL
+Data manipulation: Pandas, NumPy, Matplotlib
+Machine learning: Scikit-learn, TensorFlow, PyTorch
+Data visualization: Matplotlib, Seaborn, Plotly
+Databases: MySQL, PostgreSQL, MongoDB
+Real-world example:
+A company wants to predict customer churn (i.e., which customers are likely to leave). A Data Scientist:
+Collects customer data (e.g., demographics, usage patterns)
+Cleans and preprocesses data
+Analyzes data to identify factors contributing to churn
+Builds a predictive model using machine learning
+Deploys the model to predict which customers are at risk of churning

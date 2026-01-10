@@ -1,0 +1,38 @@
+Operators in Python
+Definition:
+Operators are special symbols in Python that are used to perform operations on variables and values.
+Types of Operators:
+Arithmetic Operators:
++ (addition)
+- (subtraction)
+* (multiplication)
+/ (division)
+// (integer division)
+% (modulus)
+** (exponentiation)
+Comparison Operators:
+== (equal to)
+!= (not equal to)
+> (greater than)
+< (less than)
+>= (greater than or equal to)
+<= (less than or equal to)
+Logical Operators:
+and (logical and)
+or (logical or)
+not (logical not)
+Assignment Operators:
+= (assignment)
++= (addition assignment)
+-= (subtraction assignment)
+*= (multiplication assignment)
+/= (division assignment)
+//= (integer division assignment)
+%= (modulus assignment)
+**= (exponentiation assignment)
+Membership Operators:
+in (membership test)
+not in (non-membership test)
+Identity Operators:
+is (identity test)
+is not (non-identity test)
